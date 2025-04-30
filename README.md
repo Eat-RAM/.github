@@ -1,2 +1,5 @@
-# .github
-The description of Eat-RAM.
+# Eat-RAM
+
+- 该组织名称使用了一语双关，该名称为“EarthHaoduo, az7627, tpdjg, REGE, awa, Morrison”的缩写，说明了该组织的成员；
+- 运用了拟人的修辞手法，用一个“吃”将组织写活了，生动形象地写出了该组织下的项目“CNTrafficSymbols”会榨干你的内存的特点，表达了作者对该模组的爱恨之情。
+- 设下悬念，吸引读者阅读兴趣，为后文内存爆炸做铺垫，预示了人物未来状况。
